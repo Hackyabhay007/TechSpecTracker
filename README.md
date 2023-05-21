@@ -4,12 +4,9 @@
 
 Device Information Extractor is a mobile application that allows users to extract various device information. It provides users with detailed insights into their device's specifications, hardware components, and sensor readings. The app displays information such as manufacturer, model name, RAM, storage, battery level, Android version, camera specifications, processor (CPU) information, GPU information, live sensor readings, and IMEI (up to Android 10 only).
 
-<div align="center">
-  <h2>Screenshots</h2>
-  <p align="center">
-    <img src="https://i.imgur.com/REPLACE_WITH_IMAGE1.png" alt="Screenshot 1" width="30%">
-  </p>
-</div>
+<img src="https://i.imgur.com/YyaruLL.jpg" alt="Screenshot" width="300">
+
+
 
 
 ## Features
