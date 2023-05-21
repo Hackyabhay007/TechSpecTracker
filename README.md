@@ -1,4 +1,4 @@
-Certainly! Here's an updated version of the README file with emojis included:
+
 
 # 📱 Device Information Extractor
 
